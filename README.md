@@ -1,5 +1,6 @@
 # Multiplayer-Pig-Game
 Multiplayer game involving dice rolls and various rules made using vanilla javascript
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
@@ -10,3 +11,5 @@ GAME RULES:
 
 
 ![](assets/ss.png)
+
+ [hosted site](https://adityakumawat97.github.io/Multiplayer-Pig-Game/)
